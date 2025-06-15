@@ -1,0 +1,13 @@
+/FastExamSystem/.venv
+/FastExamSystem/.idea
+/FastExamSystem/app/__pycache__
+/FastExamSystem/app/.env
+/next_exam_system/.idea
+/next_exam_system/.next
+/next_exam_system/node_modules
+/next_exam_system/.env.local
+/next_exam_system/next-env.d.ts
+/FastExamSystem/app/auth/__pycache__
+/FastExamSystem/app/models/__pycache__
+/FastExamSystem/app/internal/__pycache__
+/FastExamSystem/app/routers/__pycache__
